@@ -5,7 +5,7 @@ public class annotation{
 	}
 	@Deprecated
 	public void view() {
-		System.out.println("hey");
+		System.out.println("bye");
 	}
 
 
