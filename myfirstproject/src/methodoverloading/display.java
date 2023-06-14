@@ -1,17 +1,17 @@
 package methodoverloading;
 
 public class display {
-	public void show(int c,double b) {
+	public void show(int c,double d) {
 		System.out.println(c);
-		System.out.println(b);
+		System.out.println(d);
 	}
-	public void show(String c,int b) {
+	public void show(String c,int d) {
 		System.out.println(c);
-		System.out.println(b);
+		System.out.println(d);
 	}
-	public void show(boolean c,double b) {
+	public void show(boolean c,double d) {
 		System.out.println(c);
-		System.out.println(b);
+		System.out.println(d);
 	}
 	public static void main(String[] args) {
 		display d1=new display();
