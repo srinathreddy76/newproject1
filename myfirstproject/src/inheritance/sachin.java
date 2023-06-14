@@ -6,7 +6,7 @@ public class sachin {
 		
 	}
 	public void team() {
-		System.out.println("plays for indian cricket team");
+		System.out.println("plays for indian team");
 		
 	}
 	public void battingstyle() {
