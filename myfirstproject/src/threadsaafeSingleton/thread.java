@@ -3,7 +3,7 @@ package threadsaafeSingleton;
 public class thread {
 	     static thread st=null;
 	     private thread() {
-	    	 System.out.println("Hello World");
+	    	 System.out.println("Hello ");
 	     }
 	     public static synchronized thread getinstance() {
 	    	 if(st==null) {
