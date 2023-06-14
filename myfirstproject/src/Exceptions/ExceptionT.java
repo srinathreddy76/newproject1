@@ -2,7 +2,7 @@ package Exceptions;
 
 public class ExceptionT {
 	public static void main(String[] args) {
-		int ab=90;
+		int ab=900;
 		int b=0;
 		try {
 		int c=ad/b;
